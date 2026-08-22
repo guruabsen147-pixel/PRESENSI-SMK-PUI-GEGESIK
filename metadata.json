@@ -1,0 +1,11 @@
+{
+  "name": "Presensi Guru Pintar GPS & Google Sheets",
+  "description": "Aplikasi absensi guru real-time dengan verifikasi selfie kamera, validasi geolokasi GPS geofence radius sekolah, sinkronisasi Google Sheets & Apps Script, serta control panel admin interaktif.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
